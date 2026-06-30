@@ -1,0 +1,1 @@
+"""GitHub trend dashboard backend."""
